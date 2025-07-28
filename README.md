@@ -50,4 +50,4 @@ Feel free to use, modify, or build upon it. Credit is appreciated but not requir
 
 **Mithat Misirlić**  
 Web Developer
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mithat-misirlic-631733295)) 
+
